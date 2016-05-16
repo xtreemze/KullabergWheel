@@ -1,3 +1,3 @@
 # KullabergWheel
 
-[Play here](https://cdn.rawgit.com/xtreemze/KullabergWheel/master/index.html)
+[Play here](https://rawgit.com/xtreemze/KullabergWheel/master/index.html)
